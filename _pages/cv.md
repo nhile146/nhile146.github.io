@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cv/
 title: "Hồ sơ năng lực cá nhân"
 author_profile: true
 ---
