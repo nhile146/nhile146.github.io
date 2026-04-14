@@ -1,64 +1,35 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+title: "Hồ sơ năng lực cá nhân"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+Học vấn
+======
+* **Học viện Công nghệ Bưu chính Viễn thông (PTIT)** *Chuyên ngành:* Quản trị Kinh doanh Quốc tế  
+  *Thời gian:* 2022 - Hiện tại  
+  *GPA mục tiêu:* 3.2/4.0  
 
-Education
+Kỹ năng chuyên môn
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+| Lĩnh vực | Kỹ năng chi tiết |
+| :--- | :--- |
+| **Hệ điều hành** | Sử dụng thành thạo **Ubuntu/Linux** (Terminal, Shell Scripting, quản lý hệ thống). |
+| **Điện toán đám mây** | Triển khai và quản trị dịch vụ trên **AWS** (EC2, S3, RDS), **Docker** và Harbor. |
+| **Ngôn ngữ lập trình** | Lập trình **Python** (xử lý dữ liệu), **C/C++** (nhúng), HTML/Markdown. |
+| **Hệ thống nhúng** | Thiết kế và lập trình vi điều khiển **STM32**, **Arduino**, giao tiếp cảm biến & JSON. |
+| **Công cụ quản lý** | Quản lý mã nguồn chuyên nghiệp với **Git/GitHub** và CI/CD cơ bản. |
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Dự án tiêu biểu
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### 1. Hệ thống báo khói thông minh tích hợp ESP32-CAM (IoT & Cloud)
+* **Mô tả:** Xây dựng hệ thống cảnh báo cháy sớm sử dụng cảm biến khói và camera giám sát, tự động gửi dữ liệu và hình ảnh lên nền tảng đám mây.
+* **Công nghệ:** ESP32-CAM AI Thinker, Cảm biến MQ-2, Giao thức MQTT/HTTP, AWS/Firebase.
+* **Tính năng:** Tự động chụp ảnh hiện trường khi phát hiện khói và đẩy dữ liệu lên Cloud để giám sát từ xa qua Dashboard.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### 2. Hệ thống giám sát nhiệt độ LM35 (Arduino)
+* **Mô tả:** Thu thập dữ liệu nhiệt độ thời gian thực, truyền dữ liệu định dạng JSON và hiển thị đồ thị trực quan trên ứng dụng C#.
+* **Công nghệ:** Arduino, Cảm biến LM35, C# (WinForms), Git.
+* **Kết quả:** Quản lý mã nguồn hiệu quả trên GitHub và đảm bảo độ chính xác của dữ liệu truyền tải.
