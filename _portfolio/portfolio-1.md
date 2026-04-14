@@ -20,4 +20,4 @@ Dự án tập trung vào việc xây dựng một hệ thống IoT cơ bản nh
 
 ## Mã nguồn dự án
 Bạn có thể xem chi tiết mã nguồn và cách triển khai tại Repository dưới đây:
-[GitHub Repository: Arduino_LM35_TempMonior](https://github.com/nhile146/Arduino_LM35_TempMonior)
+[GitHub Repository: Arduino_LM35_TempMonior](https://github.com/nhile146/Arduino_LM35_TempMonitor)
