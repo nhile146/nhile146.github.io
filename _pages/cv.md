@@ -7,7 +7,7 @@ author_profile: true
 Học vấn
 ======
 * **Học viện Công nghệ Bưu chính Viễn thông (PTIT)** *Chuyên ngành:* Quản trị Kinh doanh Quốc tế  
-  *Thời gian:* 2022 - Hiện tại  
+  *Thời gian:* 2023 - Hiện tại  
   *GPA mục tiêu:* 3.2/4.0  
 
 Kỹ năng chuyên môn
